@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dad.cs" />
+    <Compile Include="Family.cs" />
+    <Compile Include="Mum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Son.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
